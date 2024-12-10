@@ -1,4 +1,4 @@
-            - name: Azure Container Apps Build and Deploy
+- name: Azure Container Apps Build and Deploy
   uses: Azure/container-apps-deploy-action@v2
   with:
     # Absolute path on the GitHub runner of the source application code to be built.
