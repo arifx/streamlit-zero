@@ -3,7 +3,7 @@
 import streamlit as st
 
 # Title of the app
-st.title("My Extreme Super Streamlit App")
+st.title("My Just Streamlit App")
 
 # Description
 st.write("This is a simple Streamlit app to demonstrate its features.")
